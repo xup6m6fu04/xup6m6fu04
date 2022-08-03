@@ -15,10 +15,10 @@
 
 ### ⚡  &nbsp;Github Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=xup6m6fu04&show_icons=true&hide_border=true)&nbsp;&nbsp;</br>
+![github stats](https://github-readme-stats.vercel.app/api?username=xup6m6fu04&show_icons=true)&nbsp;&nbsp;</br>
 
 ### 🔭 &nbsp;Programming Languages
-![Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xup6m6fu04&layout=compact&langs_count=8&hide_border=true)
+![Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xup6m6fu04&layout=compact&langs_count=20)
 <br />
 
 ### 🛠 &nbsp;Tech Stack
