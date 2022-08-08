@@ -1,5 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Yu Lin !](https://www.linkedin.com/in/yozero/) 
-
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Yu Lin
 <a href="https://www.linkedin.com/in/yozero/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -11,43 +10,34 @@
 </a>
 
 
+<br /><br />
+
+### 🧐 About Me
+
+#### 一個永遠不敢自稱 Senior 的後端工程師，每時每刻都感受到自己的不足，所以每時每刻都在努力。
+
+<br>
+
+### 📈 Github Stats
+
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=xup6m6fu04&show_icons=true&theme=radical)\
+
+</a>
 <br />
 
-### ⚡  &nbsp;Github Stats
+### 🔨  Languages and Tools:
 
-![github stats](https://github-readme-stats.vercel.app/api?username=xup6m6fu04&show_icons=true)&nbsp;&nbsp;</br>
-
-### 🔭 &nbsp;Programming Languages
-![Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xup6m6fu04&layout=compact&langs_count=20)
-<br />
-
-### 🛠 &nbsp;Tech Stack
-
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; \
-![Mysql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp; \
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=orange)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs)&nbsp;
-
-
-
-
-
-<!--
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=xup6m6fu04.xup6m6fu04)
-
-**xup6m6fu04/xup6m6fu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=for-the-badge&logo=jQuery)&nbsp;
+![Mysql](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=redis)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&logo=laravel&logoColor=orange)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=for-the-badge&logo=vuedotjs)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp; \
+![GitKraken](https://img.shields.io/badge/-GitKraken-05122A?style=for-the-badge&logo=gitkraken)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
+![PHPStorm](https://img.shields.io/badge/-PHPStorm-05122A?style=for-the-badge&logo=goland)&nbsp;
+![Goland](https://img.shields.io/badge/-Goland-05122A?style=for-the-badge&logo=phpstorm)&nbsp;
+![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=for-the-badge&logo=webstorm)&nbsp;
