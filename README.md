@@ -27,17 +27,17 @@
 
 ### 🔨  Languages and Tools:
 
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&logo=laravel&logoColor=orange)&nbsp;\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=for-the-badge&logo=jQuery)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=for-the-badge&logo=vuedotjs)&nbsp;\
 ![Mysql](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=redis)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&logo=laravel&logoColor=orange)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=for-the-badge&logo=vuedotjs)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp; \
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=redis)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitKraken](https://img.shields.io/badge/-GitKraken-05122A?style=for-the-badge&logo=gitkraken)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;\
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-05122A?style=for-the-badge&logo=goland)&nbsp;
 ![Goland](https://img.shields.io/badge/-Goland-05122A?style=for-the-badge&logo=phpstorm)&nbsp;
 ![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=for-the-badge&logo=webstorm)&nbsp;
