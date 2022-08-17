@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yu Lin</h1>
-<h3 align="center">A Back-end enginner from Taiwan</h3>
+<h3 align="center">A Back-end developer from Taiwan</h3>
 
 - 🌱 I’m currently learning **Go, PHP**
 
