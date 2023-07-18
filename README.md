@@ -1,15 +1,20 @@
+
+<a href="https://github.com/xup6m6fu04"><img align="right" width="100" src="https://media.tenor.com/o9p2N9FmJZwAAAAi/dance-moves-monokuma.gif"></a>
+<a href="https://github.com/xup6m6fu04"><img align="left" width="100" src="https://media.tenor.com/fCB13P03JwoAAAAi/monokuma-danganronpa.gif"></a>
+
 <h1 align="center">Hi , I'm Yu Lin</h1>
 <h3 align="center">A Back-end developer from Taiwan</h3>
 
 <h3 align="left">About me:</h3>
 
 - 🌱 I’m currently learning **Go, PHP**
+- 📫 How to reach me **sarah82529@gmail.com**
+
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31t7kxupsdzqgkmzmrwikwgeoq7q&redirect=true" target="_blank">
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31t7kxupsdzqgkmzmrwikwgeoq7q&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" align="right" height="440">
 </a>
 
-- 📫 How to reach me **sarah82529@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
