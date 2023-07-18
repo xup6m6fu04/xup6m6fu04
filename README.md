@@ -51,7 +51,7 @@
     </a>
     <a href="https://www.credly.com/badges/31d0aae1-cd28-4a13-a639-932e4c509d3c/public_url" target="_blank" rel="noreferrer">
         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890492-4ed6fe12-fe2c-443b-a578-08ae51f031b6.png" alt="AWS Certified Solutions Architect - Associate" width="140" height="140" />
-    </a>
+    </a><br>
     <a href="https://www.credly.com/badges/90669a3c-15ab-42d5-9750-3a4c63a807c8/public_url" target="_blank" rel="noreferrer">
         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890727-0e9386e1-48a7-48c1-95e0-de285e88504d.png" alt="AWS Certified Solutions Architect - Associate" width="140" height="140" />
     </a>
