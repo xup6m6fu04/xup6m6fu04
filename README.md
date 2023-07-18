@@ -39,7 +39,7 @@
 </p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xup6m6fu04&show_icons=true&locale=en&theme=radical" alt="xup6m6fu04" /></p>-->
-<h3 align="left">AWS Certifications:</h3>
+<h3 align="left">My AWS Certifications:</h3>
 <p align="left">
     <a href="https://www.credly.com/badges/62262389-3639-45a8-8574-7d1ab1c0f78d/public_url" target="_blank" rel="noreferrer">
         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890121-b908ec9d-a211-491d-82ac-51d27437db18.png" alt="AWS Certified Solutions Architect - Associate" width="140" height="140" />
