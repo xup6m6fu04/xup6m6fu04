@@ -20,21 +20,20 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="60" height="60" />
+        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/254118884-af794d40-87e9-4cde-b94b-9df7eae4e31c.svg" alt="aws" width="60" height="60" />
     </a>&nbsp;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60" /> </a>&nbsp;
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="60" height="60" /> </a>&nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="60" height="60" /> </a>&nbsp;
     <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="60" height="60" /> </a>&nbsp;
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="60" height="60" /> </a>&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>&nbsp;
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60" height="60" /> </a>&nbsp;
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60" /> </a><br>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60" height="60" /> </a><br>&nbsp;
+<!--     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/254116360-49b9add3-9ae6-449a-a57d-1df08e0838dc.png" alt="linux" width="60" height="60" /> </a><br> -->
 <!--     <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60" /> </a> -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" /> </a>&nbsp;
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60" /> </a>&nbsp;
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/254116646-a00d9f6a-f5d0-4674-bb42-e4310b92f184.png" alt="php" width="60" height="60" /> </a>&nbsp;
     <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="postman" width="60" height="60" /> </a>&nbsp;
     <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" alt="redis" width="60" height="60" /> </a>&nbsp;
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60" /> </a>&nbsp;
