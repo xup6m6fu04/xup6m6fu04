@@ -5,13 +5,13 @@
 <h3 align="center">A Back-end developer from Taiwan</h3>
 
 <a href="https://github.com/xup6m6fu04"><img align="right" width="120" src="https://media.tenor.com/oOfLxVfok0sAAAAi/danganronpa-byakuya.gif"></a>
-<a href="https://github.com/xup6m6fu04"><img align="right" width="120" src="https://media.tenor.com/oOfLxVfok0sAAAAi/danganronpa-byakuya.gif"></a>
-
 
 <h3 align="left">About me:</h3>
 
 - 🌱 I’m currently learning **Go, PHP**
 - 📫 How to reach me **sarah82529@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31t7kxupsdzqgkmzmrwikwgeoq7q&redirect=true" target="_blank">
@@ -19,7 +19,6 @@
 </a>
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/yozero" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="yozero" height="50" width="50" />
