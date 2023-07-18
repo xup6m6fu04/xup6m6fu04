@@ -47,16 +47,16 @@
 <h3 align="left">My AWS Certifications:</h3>
 <p align="left">
     <a href="https://www.credly.com/badges/62262389-3639-45a8-8574-7d1ab1c0f78d/public_url" target="_blank" rel="noreferrer">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890121-b908ec9d-a211-491d-82ac-51d27437db18.png" alt="AWS Certified Solutions Architect - Associate" width="140" height="140" />
+        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890121-b908ec9d-a211-491d-82ac-51d27437db18.png" alt="AWS Certified Solutions Architect - Associate" width="110" height="110" />
     </a>
     <a href="https://www.credly.com/badges/31d0aae1-cd28-4a13-a639-932e4c509d3c/public_url" target="_blank" rel="noreferrer">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890492-4ed6fe12-fe2c-443b-a578-08ae51f031b6.png" alt="AWS Certified Solutions Architect - Associate" width="140" height="140" />
-    </a><br>
+        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890492-4ed6fe12-fe2c-443b-a578-08ae51f031b6.png" alt="AWS Certified Solutions Architect - Associate" width="110" height="110" />
+    </a>
     <a href="https://www.credly.com/badges/90669a3c-15ab-42d5-9750-3a4c63a807c8/public_url" target="_blank" rel="noreferrer">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890727-0e9386e1-48a7-48c1-95e0-de285e88504d.png" alt="AWS Certified Solutions Architect - Associate" width="140" height="140" />
+        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890727-0e9386e1-48a7-48c1-95e0-de285e88504d.png" alt="AWS Certified Solutions Architect - Associate" width="110" height="110" />
     </a>
     <a href="https://www.credly.com/badges/9afec257-7180-4a19-aded-3c2e7d342d89/public_url" target="_blank" rel="noreferrer">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890893-eb17143f-adb5-41f6-b0b4-476789cbbfb8.png" alt="AWS Certified Solutions Architect - Associate" width="140" height="140" />
+        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890893-eb17143f-adb5-41f6-b0b4-476789cbbfb8.png" alt="AWS Certified Solutions Architect - Associate" width="110" height="110" />
     </a>
     <!-- Add more certifications as necessary. -->
 </p>
