@@ -4,7 +4,7 @@
 <h1 align="center">Hi , I'm Yu Lin</h1>
 <h3 align="center">A Back-end developer from Taiwan</h3>
 
-<a href="https://github.com/xup6m6fu04"><img align="right" width="120" src="https://media.tenor.com/oOfLxVfok0sAAAAi/danganronpa-byakuya.gif"></a>
+<a href="https://github.com/xup6m6fu04"><img align="right" width="120" src="https://media.tenor.com/rvqnDu7_WzkAAAAi/shuichi-saihara-danganronpa.gif"></a>
 
 <h3 align="left">About me:</h3>
 
