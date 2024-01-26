@@ -13,10 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 
-
+<!--
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31t7kxupsdzqgkmzmrwikwgeoq7q&redirect=true" target="_blank">
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31t7kxupsdzqgkmzmrwikwgeoq7q&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" align="right" height="440">
 </a>
+-->
 
 
 <p align="left">
@@ -38,7 +39,7 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="60" height="60" /> </a>&nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="60" height="60" /> </a>&nbsp;
      <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/254116646-a00d9f6a-f5d0-4674-bb42-e4310b92f184.png" alt="php" width="60" height="60" /> </a>&nbsp;
-    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="60" height="60" /> </a>&nbsp;<br>
+    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="60" height="60" /> </a>&nbsp;
 <!--     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/254116360-49b9add3-9ae6-449a-a57d-1df08e0838dc.png" alt="linux" width="60" height="60" /> </a><br> -->
 <!--     <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60" /> </a> -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" /> </a>&nbsp;
