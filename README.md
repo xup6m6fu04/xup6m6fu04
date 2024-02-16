@@ -35,7 +35,7 @@
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/254118884-af794d40-87e9-4cde-b94b-9df7eae4e31c.svg" alt="aws" width="60" height="60" />
     </a>&nbsp;
-     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60" height="60" /> </a>&nbsp;
+     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="60" height="60" /> </a>&nbsp;
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="60" height="60" /> </a>&nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="60" height="60" /> </a>&nbsp;
      <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/254116646-a00d9f6a-f5d0-4674-bb42-e4310b92f184.png" alt="php" width="60" height="60" /> </a>&nbsp;
