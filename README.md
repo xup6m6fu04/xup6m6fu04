@@ -1,11 +1,12 @@
+<!--
 <a href="https://github.com/xup6m6fu04"><img align="right" width="100" src="https://media.tenor.com/0InbEgXGh3UAAAAC/oshi-no-ko-arima-kana.gif"></a>
 <a href="https://github.com/xup6m6fu04"><img align="left" width="100" src="https://media.tenor.com/dEX-82YvKlUAAAAC/anime-oshi-no-ko.gif"></a>
-
+-->
 <h1 align="center">Hi , I'm Yu Lin</h1>
 <h3 align="center">A Back-end developer from Taiwan</h3>
-
+<!--
 <a href="https://github.com/xup6m6fu04"><img align="right" width="120" src="https://media.tenor.com/XMAAboIjxcAAAAAi/oshi-no-ko-kana-arima.gif"></a>
-
+-->
 <h3 align="left">About me:</h3>
 
 - 🌱 I’m currently learning **Go, PHP**
