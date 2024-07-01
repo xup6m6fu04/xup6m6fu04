@@ -28,7 +28,9 @@
     <a href="https://medium.com/@yulinchou" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yulinchou" height="50" width="50""/>
     </a>&nbsp;
+   <!--
     <a href="https://www.leetcode.com/sarah82529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarah82529" height="50" width="50" /></a>
+   -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
