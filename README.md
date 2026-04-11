@@ -57,13 +57,10 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xup6m6fu04&show_icons=true&locale=en&theme=radical" alt="xup6m6fu04" /></p>-->
 <h3 align="left">My AWS Certifications:</h3>
 <p align="left">
-    <a href="https://www.credly.com/badges/62262389-3639-45a8-8574-7d1ab1c0f78d/public_url" target="_blank" rel="noreferrer">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890121-b908ec9d-a211-491d-82ac-51d27437db18.png" width="120" height="120" />
-    </a>
-   <a href="https://www.credly.com/badges/3ba94c52-7243-46c8-92bb-73b90b3ce749/public_url" target="_blank" rel="noreferrer">
-        <img src="https://images.credly.com/size/220x220/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="120" height="120" />
-    </a>
-    <a href="https://www.credly.com/badges/31d0aae1-cd28-4a13-a639-932e4c509d3c/public_url" target="_blank" rel="noreferrer">
+   <a href="https://www.credly.com/badges/4b502245-659d-4800-8b0e-1348585a94e7/public_url" target="_blank" rel="noreferrer">
+        <img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="120" height="120" />
+    </a><br>
+   <a href="https://www.credly.com/badges/31d0aae1-cd28-4a13-a639-932e4c509d3c/public_url" target="_blank" rel="noreferrer">
         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890492-4ed6fe12-fe2c-443b-a578-08ae51f031b6.png" width="120" height="120" />
     </a>
     <a href="https://www.credly.com/badges/90669a3c-15ab-42d5-9750-3a4c63a807c8/public_url" target="_blank" rel="noreferrer">
@@ -72,6 +69,13 @@
     <a href="https://www.credly.com/badges/9afec257-7180-4a19-aded-3c2e7d342d89/public_url" target="_blank" rel="noreferrer">
         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890893-eb17143f-adb5-41f6-b0b4-476789cbbfb8.png" width="120" height="120" />
     </a>
-    <!-- Add more certifications as necessary. -->
+   <br>
+    <a href="https://www.credly.com/badges/62262389-3639-45a8-8574-7d1ab1c0f78d/public_url" target="_blank" rel="noreferrer">
+        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890121-b908ec9d-a211-491d-82ac-51d27437db18.png" width="120" height="120" />
+    </a>
+   <a href="https://www.credly.com/badges/3ba94c52-7243-46c8-92bb-73b90b3ce749/public_url" target="_blank" rel="noreferrer">
+        <img src="https://images.credly.com/size/220x220/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="120" height="120" />
+    </a>
+    
 </p>
 
