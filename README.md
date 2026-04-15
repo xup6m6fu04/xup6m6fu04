@@ -17,9 +17,14 @@
 
 ### 🧑‍💻 About Me
 
-- ☁️ Focused on **AWS cloud architecture**, designing scalable, highly available, and cost-effective solutions
-- 🏗️ Experienced in building production-grade infrastructure with multi-environment deployments, serverless patterns, and container orchestration
-- 🔍 Passionate about solving complex architectural challenges — from networking and security to performance optimization and disaster recovery
+- 🔧 Back-end developer specializing in **PHP / Laravel** and **Go**,
+  building scalable and high-performance systems
+- ☁️ Focused on **AWS cloud architecture**, designing highly available,
+  cost-effective solutions with multi-environment deployments,
+  serverless patterns, and container orchestration
+- 🔍 Passionate about solving complex architectural challenges —
+  from networking and security to performance optimization
+  and disaster recovery
 
 ---
 
