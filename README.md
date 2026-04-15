@@ -35,11 +35,7 @@ $ cat about_me.txt
 
 ---
 
-```
-$ ls ~/toolbox/
-```
-
-<p align="left">
+<!-- <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/254118884-af794d40-87e9-4cde-b94b-9df7eae4e31c.svg" alt="aws" width="55" /></a>&nbsp;&nbsp;
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="55" /></a>&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/254116646-a00d9f6a-f5d0-4674-bb42-e4310b92f184.png" alt="php" width="55" /></a>&nbsp;&nbsp;
@@ -51,7 +47,7 @@ $ ls ~/toolbox/
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" /></a>&nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="55" /></a>&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="55" /></a>
-</p>
+</p> -->
 
 ---
 
