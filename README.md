@@ -49,7 +49,6 @@ $ cat about_me.txt
   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="55" /></a>
 </p> -->
 
----
 
 ```
 $ aws sts get-caller-identity --query "Certifications"
