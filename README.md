@@ -4,9 +4,10 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Yu Lin</h1>
-<p align="center"><b>Back-end Developer from Taiwan 🇹🇼</b></p>
+<p align="center"><b>Software Developer & Cloud Solutions Architect from Taiwan 🇹🇼</b></p>
 
 <p align="center">
+  <a href="https://yulin.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-yulin.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://linkedin.com/in/yozero" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://medium.com/@yulinchou" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
   <a href="mailto:sarah82529@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -14,10 +15,11 @@
 
 ---
 
-### 🌱 About Me
+### 🧑‍💻 About Me
 
-- Currently learning **Go** and **PHP**
-- Passionate about cloud infrastructure and back-end development
+- ☁️ Focused on **AWS cloud architecture**, designing scalable, highly available, and cost-effective solutions
+- 🏗️ Experienced in building production-grade infrastructure with multi-environment deployments, serverless patterns, and container orchestration
+- 🔍 Passionate about solving complex architectural challenges — from networking and security to performance optimization and disaster recovery
 
 ---
 
