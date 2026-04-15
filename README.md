@@ -1,10 +1,15 @@
-<!--
-<a href="https://github.com/xup6m6fu04"><img align="right" width="100" src="https://media.tenor.com/0InbEgXGh3UAAAAC/oshi-no-ko-arima-kana.gif"></a>
-<a href="https://github.com/xup6m6fu04"><img align="left" width="100" src="https://media.tenor.com/dEX-82YvKlUAAAAC/anime-oshi-no-ko.gif"></a>
--->
+<p align="center">☁️・🔧・☕・☁️・🔧・☕・☁️・🔧・☕・☁️・🔧・☕・☁️・🔧・☕・☁️・🔧・☕</p>
 
-<h1 align="center">Hi 👋, I'm Yu Lin</h1>
-<p align="center"><b>Software Developer & Cloud Solutions Architect from Taiwan 🇹🇼</b></p>
+<h1 align="center">Yu Lin Chou</h1>
+<p align="center"><b>Software Developer & Cloud Solutions Architect</b></p>
+
+<div align="center">
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃   Check out yulin.dev for more about me!   ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+</div>
 
 <p align="center">
   <a href="https://yulin.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-yulin.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
@@ -15,20 +20,24 @@
 
 ---
 
-### 🧑‍💻 About Me
+```
+$ cat about_me.txt
+```
 
-- 🔧 Back-end developer specializing in **PHP / Laravel** and **Go**,
-  building scalable and high-performance systems
-- ☁️ Focused on **AWS cloud architecture**, designing highly available,
-  cost-effective solutions with multi-environment deployments,
+```text
+> Back-end developer who builds with PHP / Laravel and Go
+> Focused on AWS cloud architecture — designing scalable, highly available,
+  and cost-effective solutions across multi-environment deployments,
   serverless patterns, and container orchestration
-- 🔍 Passionate about solving complex architectural challenges —
-  from networking and security to performance optimization
-  and disaster recovery
+> Solving complex architectural challenges from networking and security
+  to performance optimization and disaster recovery
+```
 
 ---
 
-### 🛠️ Languages & Tools
+```
+$ ls ~/toolbox/
+```
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/254118884-af794d40-87e9-4cde-b94b-9df7eae4e31c.svg" alt="aws" width="55" /></a>&nbsp;&nbsp;
@@ -46,7 +55,9 @@
 
 ---
 
-### 🏅 AWS Certifications
+```
+$ aws sts get-caller-identity --query "Certifications"
+```
 
 <p align="left">
   <a href="https://www.credly.com/badges/4b502245-659d-4800-8b0e-1348585a94e7/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="110" /></a>&nbsp;
@@ -56,3 +67,5 @@
   <a href="https://www.credly.com/badges/62262389-3639-45a8-8574-7d1ab1c0f78d/public_url" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890121-b908ec9d-a211-491d-82ac-51d27437db18.png" width="110" /></a>&nbsp;
   <a href="https://www.credly.com/badges/3ba94c52-7243-46c8-92bb-73b90b3ce749/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/220x220/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="110" /></a>
 </p>
+
+<p align="center">☁️ Powered by code, coffee, and the cloud ☁️</p>
