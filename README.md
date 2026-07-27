@@ -6,7 +6,7 @@
 <div align="center">
 <pre>
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃   Check out yulin.dev for more about me!   ┃
+┃   Check out <a href="https://yulin.dev" target="_blank">yulin.dev</a> for more about me!   ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 </div>
