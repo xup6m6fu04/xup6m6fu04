@@ -1,28 +1,28 @@
 <!-- ============================================================
-     POCKET CLOUD — 4-shade LCD handheld profile
+     THE CLOUD ARCHITECT — turn-based RPG profile
      All pixel art and animation live in ./assets (self-contained SVG)
      ============================================================ -->
 
 <p align="center">
-  <img src="./assets/device.svg" width="100%" alt="Yu Lin Chou — Back-end Developer & Cloud Solutions Architect" />
+  <img src="./assets/battle.svg" width="100%" alt="Yu Lin Chou — Back-end Developer & Cloud Solutions Architect — battles a Legacy Monolith and splits it into microservices" />
 </p>
 
 <p align="center">
-  <a href="https://yulin.dev"><img src="./assets/cart-portfolio.svg" height="110" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/yozero"><img src="./assets/cart-linkedin.svg" height="110" alt="LinkedIn" /></a>
-  <a href="mailto:sarah82529@gmail.com"><img src="./assets/cart-mail.svg" height="110" alt="Email" /></a>
+  <a href="https://yulin.dev"><img src="./assets/cmd-portfolio.svg" height="60" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/yozero"><img src="./assets/cmd-linkedin.svg" height="60" alt="LinkedIn" /></a>
+  <a href="mailto:sarah82529@gmail.com"><img src="./assets/cmd-mail.svg" height="60" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="./assets/room.svg" width="100%" alt="Home — Back-end developer (PHP / Laravel, Go) and cloud solutions architect on AWS: scalable, highly available, cost-effective; serverless, containers, multi-environment; networking, security, performance, disaster recovery." />
+  <img src="./assets/status.svg" width="100%" alt="Status — Back-end Developer (PHP / Laravel, Go) and Cloud Solutions Architect (AWS). Skills: scalable design, high availability, cost optimization, multi-environment deploys, serverless, containers, networking and security, disaster recovery." />
 </p>
 
 <p align="center">
-  <img src="./assets/parts.svg" width="100%" alt="Parts list: AWS, PHP, Laravel, Go, Docker, MySQL, Redis, JavaScript, Vue, Git" />
+  <img src="./assets/items.svg" width="100%" alt="Items: AWS, PHP, Laravel, Go, Docker, MySQL, Redis, JavaScript, Vue, Git" />
 </p>
 
 <p align="center">
-  <img src="./assets/badge-case.svg" width="100%" alt="Badge case — AWS certifications" />
+  <img src="./assets/badges.svg" width="100%" alt="Badges — AWS certifications" />
 </p>
 
 <!-- CERTS:START -->
@@ -57,5 +57,5 @@
 <!-- CERTS:END -->
 
 <p align="center">
-  <img src="./assets/power-off.svg" width="100%" alt="Game saved — see you at yulin.dev" />
+  <img src="./assets/campfire.svg" width="100%" alt="Save point — your progress has been saved. Next destination: yulin.dev" />
 </p>
