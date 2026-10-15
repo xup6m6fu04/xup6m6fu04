@@ -1,28 +1,39 @@
 <!-- ============================================================
-     THE CLOUD ARCHITECT — turn-based RPG profile
+     YU LIN QUEST — side-scrolling platformer profile
      All pixel art and animation live in ./assets (self-contained SVG)
      ============================================================ -->
 
 <p align="center">
-  <img src="./assets/battle.svg" width="100%" alt="Yu Lin Chou — Back-end Developer & Cloud Solutions Architect — battles a Legacy Monolith and splits it into microservices" />
+  <img src="./assets/header.svg" width="100%" alt="Yu Lin Chou — Back-end Developer & Cloud Solutions Architect" />
 </p>
 
 <p align="center">
-  <a href="https://yulin.dev"><img src="./assets/cmd-portfolio.svg" height="60" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/yozero"><img src="./assets/cmd-linkedin.svg" height="60" alt="LinkedIn" /></a>
-  <a href="mailto:sarah82529@gmail.com"><img src="./assets/cmd-mail.svg" height="60" alt="Email" /></a>
+  <a href="https://yulin.dev"><img src="./assets/btn-portfolio.svg" height="52" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/yozero"><img src="./assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:sarah82529@gmail.com"><img src="./assets/btn-email.svg" height="52" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="./assets/status.svg" width="100%" alt="Status — Back-end Developer (PHP / Laravel, Go) and Cloud Solutions Architect (AWS). Skills: scalable design, high availability, cost optimization, multi-environment deploys, serverless, containers, networking and security, disaster recovery." />
+  <img src="./assets/stage-map.svg" width="100%" alt="Stage select: 01 Origin, 02 Item Shop, 03 Cloud Castle" />
 </p>
 
+<!-- STAGE 01 · ORIGIN -->
 <p align="center">
-  <img src="./assets/items.svg" width="100%" alt="Items: AWS, PHP, Laravel, Go, Docker, MySQL, Redis, JavaScript, Vue, Git" />
+  <img src="./assets/stage-01.svg" width="100%" alt="Stage 01: Origin" />
+  <img src="./assets/player-card.svg" width="100%" alt="Player card — Back-end Developer (PHP / Laravel, Go) and Cloud Solutions Architect (AWS). Quests: scalable, highly available, cost-effective architecture; multi-environment deployments, serverless and containers; networking, security, performance and disaster recovery." />
 </p>
 
+<!-- STAGE 02 · ITEM SHOP -->
 <p align="center">
-  <img src="./assets/badges.svg" width="100%" alt="Badges — AWS certifications" />
+  <img src="./assets/stage-02.svg" width="100%" alt="Stage 02: Item Shop" />
+  <img src="./assets/inventory.svg" width="100%" alt="Inventory: AWS, PHP, Laravel, Go, Docker, MySQL, Redis, JavaScript, Vue, Git" />
+</p>
+
+<!-- STAGE 03 · CLOUD CASTLE -->
+<p align="center">
+  <img src="./assets/stage-03.svg" width="100%" alt="Stage 03: Cloud Castle — AWS certifications" />
 </p>
 
 <!-- CERTS:START -->
@@ -57,5 +68,5 @@
 <!-- CERTS:END -->
 
 <p align="center">
-  <img src="./assets/campfire.svg" width="100%" alt="Save point — your progress has been saved. Next destination: yulin.dev" />
+  <img src="./assets/footer.svg" width="100%" alt="Stage clear — thanks for playing. Continue at yulin.dev" />
 </p>
