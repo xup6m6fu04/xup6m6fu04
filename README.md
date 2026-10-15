@@ -1,55 +1,53 @@
-<!-- Header -->
+<p align="center">▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀</p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Yu%20Lin%20Chou&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%C2%B7%20Cloud%20Solutions%20Architect&descSize=18&descAlignY=60" width="100%" alt="Yu Lin Chou" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1800&pause=900&center=true&vCenter=true&width=820&height=90&color=FACC15&background=0D1117&repeat=false&lines=YU+LIN+CHOU" alt="Yu Lin Chou" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2600&pause=900&center=true&vCenter=true&width=820&height=46&color=22D3EE&background=0D1117&lines=PLAYER+1+-+BACK-END+DEVELOPER%3BCLASS+-+CLOUD+SOLUTIONS+ARCHITECT%3BWEAPONS+-+PHP+%2F+LARAVEL+%2F+GO+%2F+AWS%3BPRESS+START+TO+CONTINUE+%3E" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://yulin.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=FF9900&center=true&vCenter=true&width=620&lines=%24+building+backends+with+PHP+%2F+Laravel+%26+Go;%24+designing+scalable+AWS+architectures;%24+serverless+%C2%B7+containers+%C2%B7+multi-env+deployments;%24+powered+by+code%2C+coffee%2C+and+the+cloud+%E2%98%95" alt="Typing SVG" />
-  </a>
+  <a href="https://yulin.dev"><img src="https://img.shields.io/badge/HOME-0D1117?style=for-the-badge&logo=googlechrome&logoColor=FACC15" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/yozero"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZBQ0MxNSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+  <a href="mailto:sarah82529@gmail.com"><img src="https://img.shields.io/badge/MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FACC15" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <a href="https://yulin.dev"><img src="https://img.shields.io/badge/yulin.dev-0F2027?style=flat-square&logo=googlechrome&logoColor=FF9900" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/yozero"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-  <a href="mailto:sarah82529@gmail.com"><img src="https://img.shields.io/badge/Email-0F2027?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-</p>
+<p align="center">▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄</p>
 
-<br />
+### ▶ PLAYER STATUS
 
-### `~/about`
-
-```yaml
-name: Yu Lin Chou
-role:
-  - Back-end Developer      # PHP / Laravel · Go
-  - Cloud Solutions Architect
-focus:
-  - Scalable, highly available & cost-effective AWS architecture
-  - Multi-environment deployments · Serverless · Container orchestration
-  - Networking · Security · Performance tuning · Disaster recovery
-fuel: [code, coffee, cloud]
+```text
+╔════════════════════ CHARACTER SHEET ════════════════════╗
+  NAME ........ Yu Lin Chou
+  CLASS ....... Back-end Developer
+  SUBCLASS .... Cloud Solutions Architect
+  WEAPONS ..... PHP / Laravel · Go
+  REALM ....... AWS
+  FUEL ........ code · coffee · cloud
+╚═════════════════════════════════════════════════════════╝
 ```
 
-### `~/stack`
+### ▶ ACTIVE QUESTS
+
+- [x] Design scalable, highly available & cost-effective AWS architecture
+- [x] Ship multi-environment deployments, serverless & container orchestration
+- [x] Defeat bosses in networking, security, performance & disaster recovery
+
+### ▶ INVENTORY
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,php,laravel,go,docker,mysql,redis,js,vue,git&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=aws,php,laravel,go,docker,mysql,redis,js,vue,git&perline=10&theme=dark" alt="Tech stack" />
 </p>
 
-### `~/certifications`
-
-```bash
-$ aws sts get-caller-identity --query "Certifications"
-```
+### ▶ ACHIEVEMENTS UNLOCKED
 
 <table>
   <!-- Accent bar: its large intrinsic width stretches GitHub's max-content table to 100% -->
   <tr>
-    <td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:FF9900&height=4" width="2000" height="4" alt="" /></td>
+    <td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:F472B6,50:FACC15,100:22D3EE&height=4" width="2000" height="4" alt="" /></td>
   </tr>
   <tr>
-    <td align="center" width="22%"><sub><b>PROFESSIONAL</b></sub></td>
+    <td align="center" width="22%"><sub><b>★★★<br/>PROFESSIONAL</b></sub></td>
     <td align="center">
       <a href="https://www.credly.com/badges/4b502245-659d-4800-8b0e-1348585a94e7/public_url"><img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="96" alt="AWS Certification" /></a>
       &nbsp;&nbsp;
@@ -57,7 +55,7 @@ $ aws sts get-caller-identity --query "Certifications"
     </td>
   </tr>
   <tr>
-    <td align="center"><sub><b>ASSOCIATE</b></sub></td>
+    <td align="center"><sub><b>★★<br/>ASSOCIATE</b></sub></td>
     <td align="center">
       <a href="https://www.credly.com/badges/31d0aae1-cd28-4a13-a639-932e4c509d3c/public_url"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890492-4ed6fe12-fe2c-443b-a578-08ae51f031b6.png" width="96" alt="AWS Certification" /></a>
       &nbsp;&nbsp;
@@ -69,7 +67,7 @@ $ aws sts get-caller-identity --query "Certifications"
     </td>
   </tr>
   <tr>
-    <td align="center"><sub><b>FOUNDATIONAL</b></sub></td>
+    <td align="center"><sub><b>★<br/>FOUNDATIONAL</b></sub></td>
     <td align="center">
       <a href="https://www.credly.com/badges/62262389-3639-45a8-8574-7d1ab1c0f78d/public_url"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890121-b908ec9d-a211-491d-82ac-51d27437db18.png" width="96" alt="AWS Certification" /></a>
       &nbsp;&nbsp;
@@ -78,7 +76,6 @@ $ aws sts get-caller-identity --query "Certifications"
   </tr>
 </table>
 
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2600&pause=900&center=true&vCenter=true&width=820&height=46&color=F472B6&background=0D1117&lines=THANKS+FOR+PLAYING%21%3BINSERT+COIN+TO+CONTINUE" alt="Thanks for playing" />
 </p>
