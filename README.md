@@ -1,53 +1,48 @@
-<p align="center">▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀</p>
+<!-- ============================================================
+     YU LIN QUEST — side-scrolling platformer profile
+     All pixel art and animation live in ./assets (self-contained SVG)
+     ============================================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1800&pause=900&center=true&vCenter=true&width=820&height=90&color=FACC15&background=0D1117&repeat=false&lines=YU+LIN+CHOU" alt="Yu Lin Chou" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2600&pause=900&center=true&vCenter=true&width=820&height=46&color=22D3EE&background=0D1117&lines=PLAYER+1+-+BACK-END+DEVELOPER%3BCLASS+-+CLOUD+SOLUTIONS+ARCHITECT%3BWEAPONS+-+PHP+%2F+LARAVEL+%2F+GO+%2F+AWS%3BPRESS+START+TO+CONTINUE+%3E" alt="Typing SVG" />
+  <img src="./assets/header.svg" width="100%" alt="Yu Lin Chou — Back-end Developer & Cloud Solutions Architect" />
 </p>
 
 <p align="center">
-  <a href="https://yulin.dev"><img src="https://img.shields.io/badge/HOME-0D1117?style=for-the-badge&logo=googlechrome&logoColor=FACC15" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/yozero"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZBQ0MxNSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-  <a href="mailto:sarah82529@gmail.com"><img src="https://img.shields.io/badge/MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FACC15" alt="Email" /></a>
+  <a href="https://yulin.dev"><img src="./assets/btn-portfolio.svg" height="52" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/yozero"><img src="./assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:sarah82529@gmail.com"><img src="./assets/btn-email.svg" height="52" alt="Email" /></a>
 </p>
 
-<p align="center">▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄</p>
-
-### ▶ PLAYER STATUS
-
-```text
-╔════════════════════ CHARACTER SHEET ════════════════════╗
-  NAME ........ Yu Lin Chou
-  CLASS ....... Back-end Developer
-  SUBCLASS .... Cloud Solutions Architect
-  WEAPONS ..... PHP / Laravel · Go
-  REALM ....... AWS
-  FUEL ........ code · coffee · cloud
-╚═════════════════════════════════════════════════════════╝
-```
-
-### ▶ ACTIVE QUESTS
-
-- [x] Design scalable, highly available & cost-effective AWS architecture
-- [x] Ship multi-environment deployments, serverless & container orchestration
-- [x] Defeat bosses in networking, security, performance & disaster recovery
-
-### ▶ INVENTORY
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,php,laravel,go,docker,mysql,redis,js,vue,git&perline=10&theme=dark" alt="Tech stack" />
+<p align="center">
+  <img src="./assets/stage-map.svg" width="100%" alt="Stage select: 01 Origin, 02 Item Shop, 03 Cloud Castle" />
 </p>
 
-### ▶ ACHIEVEMENTS UNLOCKED
+<!-- STAGE 01 · ORIGIN -->
+<p align="center">
+  <img src="./assets/stage-01.svg" width="100%" alt="Stage 01: Origin" />
+  <img src="./assets/player-card.svg" width="100%" alt="Player card — Back-end Developer (PHP / Laravel, Go) and Cloud Solutions Architect (AWS). Quests: scalable, highly available, cost-effective architecture; multi-environment deployments, serverless and containers; networking, security, performance and disaster recovery." />
+</p>
+
+<!-- STAGE 02 · ITEM SHOP -->
+<p align="center">
+  <img src="./assets/stage-02.svg" width="100%" alt="Stage 02: Item Shop" />
+  <img src="./assets/inventory.svg" width="100%" alt="Inventory: AWS, PHP, Laravel, Go, Docker, MySQL, Redis, JavaScript, Vue, Git" />
+</p>
+
+<!-- STAGE 03 · CLOUD CASTLE -->
+<p align="center">
+  <img src="./assets/stage-03.svg" width="100%" alt="Stage 03: Cloud Castle — AWS certifications" />
+</p>
 
 <table>
-  <!-- Accent bar: its large intrinsic width stretches GitHub's max-content table to 100% -->
+  <!-- Pixel bar: its large intrinsic width stretches GitHub's max-content table to 100% -->
   <tr>
-    <td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:F472B6,50:FACC15,100:22D3EE&height=4" width="2000" height="4" alt="" /></td>
+    <td colspan="2"><img src="./assets/bar.svg" width="2000" height="8" alt="" /></td>
   </tr>
   <tr>
-    <td align="center" width="22%"><sub><b>★★★<br/>PROFESSIONAL</b></sub></td>
+    <td align="center" width="22%"><b>★★★</b><br /><sub><b>BOSS</b><br />PROFESSIONAL</sub></td>
     <td align="center">
       <a href="https://www.credly.com/badges/4b502245-659d-4800-8b0e-1348585a94e7/public_url"><img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="96" alt="AWS Certification" /></a>
       &nbsp;&nbsp;
@@ -55,7 +50,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><sub><b>★★<br/>ASSOCIATE</b></sub></td>
+    <td align="center"><b>★★</b><br /><sub><b>MINI-BOSS</b><br />ASSOCIATE</sub></td>
     <td align="center">
       <a href="https://www.credly.com/badges/31d0aae1-cd28-4a13-a639-932e4c509d3c/public_url"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890492-4ed6fe12-fe2c-443b-a578-08ae51f031b6.png" width="96" alt="AWS Certification" /></a>
       &nbsp;&nbsp;
@@ -67,7 +62,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><sub><b>★<br/>FOUNDATIONAL</b></sub></td>
+    <td align="center"><b>★</b><br /><sub><b>WARM-UP</b><br />FOUNDATIONAL</sub></td>
     <td align="center">
       <a href="https://www.credly.com/badges/62262389-3639-45a8-8574-7d1ab1c0f78d/public_url"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23330415/253890121-b908ec9d-a211-491d-82ac-51d27437db18.png" width="96" alt="AWS Certification" /></a>
       &nbsp;&nbsp;
@@ -77,5 +72,5 @@
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2600&pause=900&center=true&vCenter=true&width=820&height=46&color=F472B6&background=0D1117&lines=THANKS+FOR+PLAYING%21%3BINSERT+COIN+TO+CONTINUE" alt="Thanks for playing" />
+  <img src="./assets/footer.svg" width="100%" alt="Stage clear — thanks for playing. Continue at yulin.dev" />
 </p>
