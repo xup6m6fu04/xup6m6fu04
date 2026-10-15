@@ -1,39 +1,28 @@
 <!-- ============================================================
-     YU LIN QUEST — side-scrolling platformer profile
+     POCKET CLOUD — 4-shade LCD handheld profile
      All pixel art and animation live in ./assets (self-contained SVG)
      ============================================================ -->
 
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Yu Lin Chou — Back-end Developer & Cloud Solutions Architect" />
+  <img src="./assets/device.svg" width="100%" alt="Yu Lin Chou — Back-end Developer & Cloud Solutions Architect" />
 </p>
 
 <p align="center">
-  <a href="https://yulin.dev"><img src="./assets/btn-portfolio.svg" height="52" alt="Portfolio" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/yozero"><img src="./assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:sarah82529@gmail.com"><img src="./assets/btn-email.svg" height="52" alt="Email" /></a>
+  <a href="https://yulin.dev"><img src="./assets/cart-portfolio.svg" height="110" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/yozero"><img src="./assets/cart-linkedin.svg" height="110" alt="LinkedIn" /></a>
+  <a href="mailto:sarah82529@gmail.com"><img src="./assets/cart-mail.svg" height="110" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="./assets/stage-map.svg" width="100%" alt="Stage select: 01 Origin, 02 Item Shop, 03 Cloud Castle" />
+  <img src="./assets/room.svg" width="100%" alt="Home — Back-end developer (PHP / Laravel, Go) and cloud solutions architect on AWS: scalable, highly available, cost-effective; serverless, containers, multi-environment; networking, security, performance, disaster recovery." />
 </p>
 
-<!-- STAGE 01 · ORIGIN -->
 <p align="center">
-  <img src="./assets/stage-01.svg" width="100%" alt="Stage 01: Origin" />
-  <img src="./assets/player-card.svg" width="100%" alt="Player card — Back-end Developer (PHP / Laravel, Go) and Cloud Solutions Architect (AWS). Quests: scalable, highly available, cost-effective architecture; multi-environment deployments, serverless and containers; networking, security, performance and disaster recovery." />
+  <img src="./assets/parts.svg" width="100%" alt="Parts list: AWS, PHP, Laravel, Go, Docker, MySQL, Redis, JavaScript, Vue, Git" />
 </p>
 
-<!-- STAGE 02 · ITEM SHOP -->
 <p align="center">
-  <img src="./assets/stage-02.svg" width="100%" alt="Stage 02: Item Shop" />
-  <img src="./assets/inventory.svg" width="100%" alt="Inventory: AWS, PHP, Laravel, Go, Docker, MySQL, Redis, JavaScript, Vue, Git" />
-</p>
-
-<!-- STAGE 03 · CLOUD CASTLE -->
-<p align="center">
-  <img src="./assets/stage-03.svg" width="100%" alt="Stage 03: Cloud Castle — AWS certifications" />
+  <img src="./assets/badge-case.svg" width="100%" alt="Badge case — AWS certifications" />
 </p>
 
 <!-- CERTS:START -->
@@ -68,5 +57,5 @@
 <!-- CERTS:END -->
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Stage clear — thanks for playing. Continue at yulin.dev" />
+  <img src="./assets/power-off.svg" width="100%" alt="Game saved — see you at yulin.dev" />
 </p>
